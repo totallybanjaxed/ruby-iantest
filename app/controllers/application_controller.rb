@@ -1,4 +1,4 @@
 class ApplicationController < ActionController::Base
-  def hello
+  def messy
   end
 end
